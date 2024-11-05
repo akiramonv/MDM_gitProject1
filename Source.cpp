@@ -287,7 +287,7 @@ int main() {
 
     int choice;
     do {
-        cout << "\nМеню:\n";
+        cout << "\nМеню (HELOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO ZA WARUDO !!!:\n";
         cout << "1. Добавить элемент по позиции\n";
         cout << "2. Добавить элемент в конец\n";
         cout << "3. Добавить элемент перед указанным значением\n";
