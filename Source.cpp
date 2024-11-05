@@ -388,6 +388,6 @@ int main() {
 
     // Очистка памяти перед выходом
     clearList(head);
-
+    cout << "Hello Amir";
     return 0;
 }
