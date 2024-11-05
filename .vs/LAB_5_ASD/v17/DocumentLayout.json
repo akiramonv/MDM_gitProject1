@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\LAB_5_ASD\\",
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\MDM_gitProject1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E2929AE-7963-4796-B439-2B5E66FE5DBA}|LAB_5_ASD.vcxproj|C:\\Users\\ACER\\source\\repos\\LAB_5_ASD\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0E2929AE-7963-4796-B439-2B5E66FE5DBA}|LAB_5_ASD.vcxproj|C:\\Users\\ASUS\\Desktop\\MDM_gitProject1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0E2929AE-7963-4796-B439-2B5E66FE5DBA}|LAB_5_ASD.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -18,21 +18,21 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LAB_5_ASD\\Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\MDM_gitProject1\\Source.cpp",
               "RelativeDocumentMoniker": "Source.cpp",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LAB_5_ASD\\Source.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\MDM_gitProject1\\Source.cpp",
               "RelativeToolTip": "Source.cpp",
-              "ViewState": "AgIAAB0BAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAABcBAAAAAAAAAAAAACEBAABbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-16T12:07:33.611Z",
               "EditorCaption": ""
