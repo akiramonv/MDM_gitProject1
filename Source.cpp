@@ -66,8 +66,20 @@ void addByPosition(Node*& head, int value, int position) {
 }
 
 //Функция посика схожих элементов
-int searchCopy(Node*& head, int valur) {
-
+void searchCopy(Node* head, int value) {
+    Node* current = head;
+    int count = 0;
+    cout << "Схожие элементы со значением " << value << ":\n";
+    while (current != nullptr) {
+        if (current->data == value) {
+            cout << "Ключ: " << current->key << ", Значение: " << current->data << "\n";
+            count++;
+        }
+        current = current->next;
+    }
+    if (count == 0) {
+        cout << "Схожие элементы не найдены.\n";
+    }
 }
 
 // Функция для добавления элемента по значению (в конец списка)
